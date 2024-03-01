@@ -185,3 +185,5 @@ If ΔH for a reaction is known, we can use the [[#^6881d0|change in the enthalpy
 
 When a reaction involves only solids, liquids, liquid solutions, or any combination of these, the volume does not change appreciably (ΔV = 0) and you can instead change the equation to $\Delta H=\Delta U$.
 
+---
+testing github 2/29/24
