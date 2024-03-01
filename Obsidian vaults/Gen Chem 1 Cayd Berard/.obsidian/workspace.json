@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "f19ce8af7eefd58c",
+    "type": "split",
+    "children": [
+      {
+        "id": "746d08be85683b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13d8570c9884b5fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 4 notes/4.5 - Concentration of Solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72f14eafbe9bd3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 5 notes/Module 5 Notes Thermochemistry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abec6edd79d7dbaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a30524a192eecd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3822f48783a1d515",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d80565e354df75c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "781ced48e6bb3ac5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.50247192382812,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1cfc75a8ee306b21",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1cd2a5a8c6edf42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ad7868adb71a909",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Module 5 notes/Module 5 Notes Thermochemistry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "728a1c96acfe6086",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Module 5 notes/Module 5 Notes Thermochemistry.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fc2b63ed30429c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6058ed9fc2737024",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Module 5 notes/Module 5 Notes Thermochemistry.md"
+              }
+            }
+          },
+          {
+            "id": "a9dc8c60ab45516a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "ketcher:Create new structure": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "72f14eafbe9bd3c7",
+  "lastOpenFiles": [
+    "Pasted image 20240228210253.png",
+    "Pasted image 20240228210220.png",
+    "Module 4 notes/4.5 - Concentration of Solutions.md",
+    "Module 5 notes/Module 5 Notes Thermochemistry.md",
+    "Module 5 notes",
+    "Module 4 notes/4.4 - Oxidation-Reduction Reactions.md",
+    "Module 4 notes/4.6 - Solution Stoichiometry and Chemical Analysis.md",
+    "Creating chemical equations.md",
+    "Module 4 notes/4.3 - Acid-Base Reactions.md",
+    "Module 4 notes/4.1 - General Properties of Aqueous Solutions.md",
+    "Module 4 notes/4.2 - Precipitation Reactions.md",
+    "Module 2 notes/2.8- Naming Inorganic Compounds.md",
+    "Module 3 notes/3.6- Quantitative Information from Balanced Equations.md",
+    "Module 3 notes/3.1- Chemical Equations.md",
+    "equivalence point.md",
+    "Polar Bond.md",
+    "[[equivalence.md",
+    "Images/Pasted image 20240221205958.png",
+    "Images/Pasted image 20240221202121.png",
+    "Images/Pasted image 20240221201839.png",
+    "Images/Pasted image 20240221201319.png",
+    "Images/Pasted image 20240221050110.png",
+    "Images/Pasted image 20240221044048.png",
+    "Images/Pasted image 20240221044026.png",
+    "Images/Pasted image 20240221042635.png",
+    "Images/Pasted image 20240221040829.png",
+    "Module 3 notes/3.7- Limiting Reactants.md",
+    "Module 4 notes",
+    "Module 3 notes/3.3- Formula Masses.md",
+    "Module 1 notes/1.5- Uncertainty in Measurement.md",
+    "Module 3 notes/3.4- Avogadro's Number and the Mole.md",
+    "Module 3 notes/3.5- Empirical Formulas from Analysis.md",
+    "Module 3 notes/Module 3 Video notes.md",
+    "Module 3 notes/3.2- Some Simple Patterns of Chemical Reactivity.md",
+    "Module 2 notes/Nomenclature Notes.md",
+    "Module 3 notes",
+    "Module 2 notes/2.5- The Periodic Table.md",
+    "Module 2 notes/2.6- Molecules and Molecular Compounds.md",
+    "Module 2 notes/2.4- Atomic Mass.md",
+    "Ketcher/Structural Formulas 2.6.ket",
+    "Excalidraw",
+    "Ketcher",
+    "Images",
+    "Module 2 notes",
+    "Module 1 notes/Untitled.canvas",
+    "Module 1 notes"
+  ]
+}
