@@ -164,7 +164,7 @@ Example of an array as a parameter to a function:
 
 #### Constant Arrays as Parameters
 
-	void example(ing x[], const int y[], int sizeX, int sizeY)
+	void example(int x[], const int y[], int sizeX, int sizeY)
 	{
 	}
 
