@@ -23,7 +23,7 @@ Every ad portrays a positive image, however, reality is complete opposite.
 ## <u>Kills Local Business</u>
 -  Begins in a small town named Middlefield where a hardware store (H&H hardware) is facing the effect of Walmart on their town
 	- when the owner of the store (named John Hunter) was getting his building appraised, the appraised gave a much lower than expected value and stated that: "anytime a Walmart is coming to a town, they knock the values down because sooner or later there's going to be a bunch of empty buildings and none of them are going to be able to sell" (00:10:56-00:11:07). 
-	- H&H hardware had to close after 43 years of business (seen @ 00:11:45)
+	- H&H hardware had to close after 43 years of business due to a Walmart entering town (seen @ 00:11:45)
 
 ## <u>Poor living conditions for the workers</u>
 - They keep the number of employees low to increase profits leading to workers being over-worked. <u>They don't care about the workers, only the profits</u>
@@ -79,7 +79,22 @@ Manager trainer claimed: "I've seen go in when someone worked 41 or 42 hours and
 
 ### Scholarly Examples and sources
 
+Works Cited: 
 
+---
 
+**Wal-Mart, American consumer citizenship, and the 2008 recession.** (pretty much every reason)
 
+Collins, Jane. “Wal-Mart, American Consumer Citizenship, and the 2008 Recession.” _Focaal_, vol. 2011, no. 61, Nov. 2011, pp. 107–16. _EBSCOhost_, https://doi-org.lscsproxy.lonestar.edu/10.3167/fcl.2011.610108.
 
+---
+
+**Unfinished Business** (article from TIME mag, sexual discrimination).
+
+Covert, Bryce. “Unfinished Business.” _TIME Magazine_, vol. 193, no. 19, May 2019, pp. 44–49. _EBSCOhost_, search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cpid&custid=s1088435&db=a9h&AN=136363161&site=ehost-live.
+
+---
+
+"American labor laws allow Walmart ample opportunities to crack down on organizing, from holding mandatory anti-union meetings to illegally firing union activists, with little risk of anything more than a slap-onthe-wrist fine and being required to post a notice promising not to break the law in the future" (Eidelson pg. 1 para. 5).
+
+Eidelson, Josh. “Walmart Workers Walk Out.” _Nation_, vol. 296, no. 1/2, Jan. 2013, pp. 11–15. _EBSCOhost_, search.ebscohost.com/login.aspx?direct=true&AuthType=ip,cpid&custid=s1088435&db=a9h&AN=84489604&site=ehost-live.
