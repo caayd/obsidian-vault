@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bd89669bfd5624e",
+            "id": "9727354bb98303c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zEnglish notes for essays/1. English class Walmart notes.md",
+                "file": "programming/Unit 10/Classes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2f6fc81fe81635a0",
+            "id": "e6dec3f7ea537fa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zEnglish notes for essays/1. English class Walmart notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8e0024212e5e135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zEnglish notes for essays/2. The skinny on obesity' notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2dc0c3e89002620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zEnglish notes for essays/1. Obesity in America notes.md",
+                "file": "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zEnglish notes for essays/1. Obesity in America notes.md",
+                "file": "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zEnglish notes for essays/1. Obesity in America notes.md",
+                "file": "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zEnglish notes for essays/1. Obesity in America notes.md"
+                "file": "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md"
               }
             }
           }
@@ -183,23 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2dc0c3e89002620",
+  "active": "e6dec3f7ea537fa9",
   "lastOpenFiles": [
-    "zEnglish notes for essays/2. The skinny on obesity' notes.md",
-    "zEnglish notes for essays/1. Obesity in America notes.md",
     "zEnglish notes for essays/1. English class Walmart notes.md",
-    "programming/Images/Pasted image 20240226050240.png",
-    "programming/Unit 9/structs.md",
+    "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
     "zEnglish notes for essays/images engl/Pasted image 20240306024517.png",
-    "programming/Images/Pasted image 20240313222541.png",
+    "programming/Unit 10/Classes.md",
+    "programming/Images/Pasted image 20240330033928.png",
+    "programming/Images/Pasted image 20240330032639.png",
+    "programming/Images/Pasted image 20240330032521.png",
+    "programming/Images/Pasted image 20240330032520.png",
+    "programming/Images/Pasted image 20240330004939.png",
+    "programming/Unit 9/structs.md",
+    "programming/Images/Pasted image 20240330000934.png",
+    "programming/Images/Pasted image 20240329234533.png",
+    "programming/Images/Pasted image 20240329233417.png",
+    "programming/Unit 10",
+    "zEnglish notes for essays/1. Obesity in America notes.md",
+    "zEnglish notes for essays/2. The skinny on obesity' notes.md",
+    "programming/Images/Pasted image 20240226050240.png",
     "zEnglish notes for essays/images engl",
-    "programming/Images/Pasted image 20240313221836.png",
-    "programming/Images/Pasted image 20240313221324.png",
-    "programming/Images/Pasted image 20240313215531.png",
-    "programming/Images/Pasted image 20240313215338.png",
-    "programming/Images/Pasted image 20240313215319.png",
-    "programming/Images/Pasted image 20240313213700.png",
-    "programming/Images/Pasted image 20240226204934.png",
     "programming",
     "zEnglish notes for essays",
     "programming/Unit 8/Arrays.md",
