@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "da0e4592540b6dac",
+        "id": "9d592cb0d20f2ff1",
         "type": "tabs",
         "children": [
           {
-            "id": "9727354bb98303c9",
+            "id": "98353646938af4b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/Unit 10/Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6dec3f7ea537fa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
+                "file": "FINAL Major essay topic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "87f0020ce32c0d88",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
+                "file": "FINAL Major essay topic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
+                "file": "FINAL Major essay topic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md"
+                "file": "FINAL Major essay topic.md"
               }
             }
           }
@@ -156,37 +144,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6dec3f7ea537fa9",
+  "active": "98353646938af4b3",
   "lastOpenFiles": [
-    "zEnglish notes for essays/1. English class Walmart notes.md",
-    "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
-    "zEnglish notes for essays/images engl/Pasted image 20240306024517.png",
+    "Trig notes/Exam 4/7-3 notes.md",
+    "Trig notes/Exam 4/Test 4 review.md",
+    "Trig notes/Exam 4/7-2 notes.md",
+    "Trig notes/images trig/Pasted Image 20240427020130_617.png",
+    "Trig notes/images trig/Pasted Image 20240427015525_569.png",
+    "Trig notes/Exam 4/7-1 notes.md",
+    "Trig notes/images trig/Pasted Image 20240426020535_523.png",
+    "Trig notes/images trig/Pasted Image 20240426020205_494.png",
+    "Trig notes/Exam 4/Untitled.md",
+    "programming/Unit 11/Inheritance and Composition.md",
+    "Trig notes/images trig/Pasted Image 20240423234541_168.png",
+    "Trig notes/images trig/Pasted Image 20240423234433_440.png",
+    "Trig notes/images trig/Pasted Image 20240423234117_411.png",
     "programming/Unit 10/Classes.md",
-    "programming/Images/Pasted image 20240330033928.png",
-    "programming/Images/Pasted image 20240330032639.png",
-    "programming/Images/Pasted image 20240330032521.png",
-    "programming/Images/Pasted image 20240330032520.png",
-    "programming/Images/Pasted image 20240330004939.png",
-    "programming/Unit 9/structs.md",
-    "programming/Images/Pasted image 20240330000934.png",
-    "programming/Images/Pasted image 20240329234533.png",
-    "programming/Images/Pasted image 20240329233417.png",
-    "programming/Unit 10",
+    "Trig notes/Exam 3/5-5 work.md",
+    "Trig notes/Exam 3/test review 3 work.md",
+    "Trig notes/Exam 4",
+    "Trig notes/Exam 3/6-3 notes.md",
+    "Trig notes/Exam 3/Untitled",
+    "Trig notes/Exam 3",
+    "Trig notes/Exam 3/6-2 notes.md",
+    "Trig notes/images trig/Pasted Image 20240419011100_458.png",
+    "Trig notes/images trig/Pasted Image 20240419011249_511.png",
+    "Untitled.md",
+    "Trig notes/Exam 3/5-6 notes.md",
+    "zEnglish notes for essays/7. 3 Days that Stopped the World Documentary.md",
+    "FINAL Major essay topic.md",
+    "zEnglish notes for essays/6. The Creepy Line Documentary.md",
     "zEnglish notes for essays/1. Obesity in America notes.md",
     "zEnglish notes for essays/2. The skinny on obesity' notes.md",
-    "programming/Images/Pasted image 20240226050240.png",
+    "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
+    "zEnglish notes for essays/5. Digital amnesia notes.md",
+    "Trig notes/images trig/Pasted Image 20240417234442_034.png",
+    "Trig notes/Exam 3/6-1 notes.md",
+    "Trig notes/images trig",
+    "Excalidraw/5-5 notes.excalidraw.md",
+    "Excalidraw",
+    "Trig notes",
+    "programming/Unit 11",
+    "zEnglish notes for essays/1. English class Walmart notes.md",
+    "programming/Unit 9/structs.md",
+    "programming/Unit 10",
     "zEnglish notes for essays/images engl",
     "programming",
-    "zEnglish notes for essays",
     "programming/Unit 8/Arrays.md",
-    "programming/Unit 9",
-    "programming/Unit 8/8.md",
-    "programming/Images",
-    "index.md",
-    "Welcome.md",
-    "programming/Unit 8"
+    "programming/Unit 8/8.md"
   ]
 }
