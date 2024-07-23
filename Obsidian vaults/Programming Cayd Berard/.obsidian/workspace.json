@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d592cb0d20f2ff1",
+        "id": "13720a5631e1a903",
         "type": "tabs",
         "children": [
           {
-            "id": "98353646938af4b3",
+            "id": "6961b5528fbf7417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FINAL Major essay topic.md",
+                "file": "🔫Crij/🟢 Written Assignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 203.51103591918945
   },
   "right": {
     "id": "87f0020ce32c0d88",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FINAL Major essay topic.md",
+                "file": "🔫Crij/🟢 Written Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FINAL Major essay topic.md",
+                "file": "🔫Crij/🟢 Written Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FINAL Major essay topic.md"
+                "file": "🔫Crij/🟢 Written Assignment.md"
               }
             }
           }
@@ -148,53 +147,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98353646938af4b3",
+  "active": "6961b5528fbf7417",
   "lastOpenFiles": [
-    "Trig notes/Exam 4/7-3 notes.md",
-    "Trig notes/Exam 4/Test 4 review.md",
-    "Trig notes/Exam 4/7-2 notes.md",
-    "Trig notes/images trig/Pasted Image 20240427020130_617.png",
-    "Trig notes/images trig/Pasted Image 20240427015525_569.png",
-    "Trig notes/Exam 4/7-1 notes.md",
-    "Trig notes/images trig/Pasted Image 20240426020535_523.png",
-    "Trig notes/images trig/Pasted Image 20240426020205_494.png",
-    "Trig notes/Exam 4/Untitled.md",
-    "programming/Unit 11/Inheritance and Composition.md",
-    "Trig notes/images trig/Pasted Image 20240423234541_168.png",
-    "Trig notes/images trig/Pasted Image 20240423234433_440.png",
-    "Trig notes/images trig/Pasted Image 20240423234117_411.png",
-    "programming/Unit 10/Classes.md",
-    "Trig notes/Exam 3/5-5 work.md",
-    "Trig notes/Exam 3/test review 3 work.md",
-    "Trig notes/Exam 4",
-    "Trig notes/Exam 3/6-3 notes.md",
-    "Trig notes/Exam 3/Untitled",
-    "Trig notes/Exam 3",
-    "Trig notes/Exam 3/6-2 notes.md",
-    "Trig notes/images trig/Pasted Image 20240419011100_458.png",
-    "Trig notes/images trig/Pasted Image 20240419011249_511.png",
+    "🔫Crij/imgs/Pasted image 20240708041111.png",
+    "🔫Crij/imgs",
+    "🔫Crij/Untitled.md",
+    "✅ passed classes/zEnglish notes for essays/1. Obesity in America notes.md",
+    "✅ passed classes/zEnglish notes for essays/2. The skinny on obesity' notes.md",
+    "✅ passed classes/zEnglish notes for essays/1. English class Walmart notes.md",
+    "✅ passed classes/zEnglish notes for essays/FINAL Major essay topic.md",
+    "✅ passed classes/zEnglish notes for essays/7. 3 Days that Stopped the World Documentary.md",
+    "✅ passed classes/zEnglish notes for essays/6. The Creepy Line Documentary.md",
+    "✅ passed classes/zEnglish notes for essays/5. Digital amnesia notes.md",
+    "✅ passed classes/zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
+    "🔫Crij/🟢 Written Assignment.md",
+    "🔫Crij/All Sections",
+    "🔫Crij/dq 2.md",
+    "🔫Crij/All Sections/Section 3 (11-15)/Chapter 14.md",
+    "🔫Crij/All Sections/Section 3 (11-15)/Chapter 13.md",
+    "🔫Crij/All Sections/Section 3 (11-15)/Chapter 12.md",
+    "🔫Crij/All Sections/Section 3 (11-15)/Chapter 11.md",
     "Untitled.md",
-    "Trig notes/Exam 3/5-6 notes.md",
-    "zEnglish notes for essays/7. 3 Days that Stopped the World Documentary.md",
-    "FINAL Major essay topic.md",
-    "zEnglish notes for essays/6. The Creepy Line Documentary.md",
-    "zEnglish notes for essays/1. Obesity in America notes.md",
-    "zEnglish notes for essays/2. The skinny on obesity' notes.md",
-    "zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
-    "zEnglish notes for essays/5. Digital amnesia notes.md",
-    "Trig notes/images trig/Pasted Image 20240417234442_034.png",
-    "Trig notes/Exam 3/6-1 notes.md",
-    "Trig notes/images trig",
-    "Excalidraw/5-5 notes.excalidraw.md",
-    "Excalidraw",
-    "Trig notes",
-    "programming/Unit 11",
-    "zEnglish notes for essays/1. English class Walmart notes.md",
-    "programming/Unit 9/structs.md",
-    "programming/Unit 10",
-    "zEnglish notes for essays/images engl",
-    "programming",
-    "programming/Unit 8/Arrays.md",
-    "programming/Unit 8/8.md"
+    "Pasted image 20240703014728.png",
+    "🔫Crij/All Sections/Section 3 (11-15)",
+    "🔫Crij/All Sections/Section 2 (6-10)/Chapter 10.md",
+    "🔫Crij/All Sections/Section 2 (6-10)",
+    "🔫Crij/All Sections/Section 2 (6-10)/Chapter 9.md",
+    "🔫Crij/All Sections/Section 2 (6-10)/Chapter 6.md",
+    "🔫Crij/All Sections/Section 2 (6-10)/Chapter 7.md",
+    "🔫Crij/All Sections/Section 2 (6-10)/Chapter 8.md",
+    "🔫Crij/All Sections/Section 1 (1-5)/Chapter 1.md",
+    "🔫Crij/All Sections/Section 1 (1-5)/Chapter 5.md",
+    "🔫Crij/All Sections/Section 1 (1-5)/Chapter 4.md",
+    "🔫Crij/All Sections/Section 1 (1-5)/Chapter 3.md",
+    "🔫Crij/All Sections/Section 1 (1-5)",
+    "skyblock/main.canvas",
+    "✅ passed classes",
+    "🔫Crij",
+    "skyblock/routes",
+    "skyblock",
+    "✅ passed classes/programming 2/Images/Pasted image 20240508055159.png",
+    "✅ passed classes/programming 2/Unit 12",
+    "✅ passed classes/Trig notes/images trig/Pasted Image 20240427020130_617.png",
+    "✅ passed classes/Trig notes/images trig/Pasted Image 20240427015525_569.png",
+    "✅ passed classes/Trig notes/images trig/Pasted Image 20240426020535_523.png",
+    "✅ passed classes/Trig notes/images trig/Pasted Image 20240426020205_494.png",
+    "✅ passed classes/Trig notes/images trig/Pasted Image 20240423234541_168.png",
+    "Trig notes/images trig/Pasted Image 20240423234433_440.png",
+    "✅ passed classes/Trig notes/images trig/Pasted Image 20240423234117_411.png"
   ]
 }

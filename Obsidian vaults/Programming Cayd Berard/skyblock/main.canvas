@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"15350f6b4d1a6030","type":"link","url":"https://skyblock.matdoes.dev/election","x":-300,"y":-178,"width":1140,"height":400},
+		{"id":"c4ba28fc705c38fc","type":"text","text":"[[Sapphire route 27|Sapphire Route]]\n[[Amethyst Route 30 by CaptainDraven_|Amethyst Route]]\n[[Topaz Route|Topaz Route]]","x":-300,"y":240,"width":160,"height":122}
+	],
+	"edges":[]
+}

@@ -1,4 +1,6 @@
 {
-  "accentColor": "",
-  "baseFontSize": 13
+  "accentColor": "#462eff",
+  "baseFontSize": 13,
+  "cssTheme": "Maple",
+  "theme": "obsidian"
 }

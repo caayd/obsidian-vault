@@ -1,0 +1,3 @@
+Listening to the prison post podcast gave me a new outlook on restorative justice. Hearing about Amanda's experience with the justice system after going through such a painful and horrific event is something that would likely bring many a long lifetime of resentment toward the culprit. Having someone that you were formally extremely close with kill those who were essentially your family is something truly unimaginable to most, and hearing about how she could have also been dead further adds to the importance of her actions.  
+  
+Seeing how she used the event as a learning experience and dedicated her life to spreading the restorative justice movement proved very powerful to me.

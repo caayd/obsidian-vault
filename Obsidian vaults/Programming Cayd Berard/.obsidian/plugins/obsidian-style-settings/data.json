@@ -1,0 +1,18 @@
+{
+  "fusion@@high-contrast-text": false,
+  "fusion@@theme-variant": "fusion-default",
+  "maple-editor@@font-maple": true,
+  "maple-editor@@heading-h1-underline": true,
+  "maple-basic@@color-use-custom": true,
+  "maple-basic@@setting-accent-h-dark": 215,
+  "maple-basic@@color-active-dark": "color-active-default-dark",
+  "maple-basic@@setting-accent-s-dark": 29,
+  "maple-editor@@fix-line-number": false,
+  "maple-editor@@heading-h2-underline": true,
+  "maple-editor@@hr-enable": true,
+  "maple-editor@@setting-hr-icon": "'🌟'",
+  "maple-workspace@@titlebar-colorful": false,
+  "maple-workspace@@bg-enable": "bg-live",
+  "maple-editor@@code-preview-bg": true,
+  "maple-editor@@setting-text-italic-color@@dark": "#63FF67"
+}
