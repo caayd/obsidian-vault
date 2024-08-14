@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔫Crij/🟢 Written Assignment.md",
+                "file": "✅ passed classes/🔫Crij/🟢 Written Assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47eca2df5b2802ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "38313da02ae925fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MUSIC QUICK NOTES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔫Crij/🟢 Written Assignment.md",
+                "file": "MUSIC QUICK NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔫Crij/🟢 Written Assignment.md",
+                "file": "MUSIC QUICK NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔫Crij/🟢 Written Assignment.md"
+                "file": "MUSIC QUICK NOTES.md"
               }
             }
           }
@@ -147,10 +170,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6961b5528fbf7417",
+  "active": "38313da02ae925fd",
   "lastOpenFiles": [
-    "🔫Crij/imgs/Pasted image 20240708041111.png",
-    "🔫Crij/imgs",
+    "MUSIC QUICK NOTES.md",
+    "✅ passed classes/🔫Crij/imgs/Pasted image 20240708041111.png",
+    "✅ passed classes/🔫Crij/imgs",
     "🔫Crij/Untitled.md",
     "✅ passed classes/zEnglish notes for essays/1. Obesity in America notes.md",
     "✅ passed classes/zEnglish notes for essays/2. The skinny on obesity' notes.md",
@@ -160,30 +184,29 @@
     "✅ passed classes/zEnglish notes for essays/6. The Creepy Line Documentary.md",
     "✅ passed classes/zEnglish notes for essays/5. Digital amnesia notes.md",
     "✅ passed classes/zEnglish notes for essays/4. 2nd Major Essay - Compare and contrast.md",
-    "🔫Crij/🟢 Written Assignment.md",
-    "🔫Crij/All Sections",
-    "🔫Crij/dq 2.md",
-    "🔫Crij/All Sections/Section 3 (11-15)/Chapter 14.md",
-    "🔫Crij/All Sections/Section 3 (11-15)/Chapter 13.md",
-    "🔫Crij/All Sections/Section 3 (11-15)/Chapter 12.md",
-    "🔫Crij/All Sections/Section 3 (11-15)/Chapter 11.md",
-    "Untitled.md",
+    "✅ passed classes/🔫Crij/🟢 Written Assignment.md",
+    "✅ passed classes/🔫Crij/All Sections",
+    "✅ passed classes/🔫Crij/dq 2.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 3 (11-15)/Chapter 14.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 3 (11-15)/Chapter 13.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 3 (11-15)/Chapter 12.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 3 (11-15)/Chapter 11.md",
     "Pasted image 20240703014728.png",
-    "🔫Crij/All Sections/Section 3 (11-15)",
-    "🔫Crij/All Sections/Section 2 (6-10)/Chapter 10.md",
-    "🔫Crij/All Sections/Section 2 (6-10)",
-    "🔫Crij/All Sections/Section 2 (6-10)/Chapter 9.md",
-    "🔫Crij/All Sections/Section 2 (6-10)/Chapter 6.md",
-    "🔫Crij/All Sections/Section 2 (6-10)/Chapter 7.md",
-    "🔫Crij/All Sections/Section 2 (6-10)/Chapter 8.md",
-    "🔫Crij/All Sections/Section 1 (1-5)/Chapter 1.md",
-    "🔫Crij/All Sections/Section 1 (1-5)/Chapter 5.md",
-    "🔫Crij/All Sections/Section 1 (1-5)/Chapter 4.md",
-    "🔫Crij/All Sections/Section 1 (1-5)/Chapter 3.md",
-    "🔫Crij/All Sections/Section 1 (1-5)",
+    "✅ passed classes/🔫Crij/All Sections/Section 3 (11-15)",
+    "✅ passed classes/🔫Crij/All Sections/Section 2 (6-10)/Chapter 10.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 2 (6-10)",
+    "✅ passed classes/🔫Crij/All Sections/Section 2 (6-10)/Chapter 9.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 2 (6-10)/Chapter 6.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 2 (6-10)/Chapter 7.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 2 (6-10)/Chapter 8.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 1 (1-5)/Chapter 1.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 1 (1-5)/Chapter 5.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 1 (1-5)/Chapter 4.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 1 (1-5)/Chapter 3.md",
+    "✅ passed classes/🔫Crij/All Sections/Section 1 (1-5)",
     "skyblock/main.canvas",
     "✅ passed classes",
-    "🔫Crij",
+    "✅ passed classes/🔫Crij",
     "skyblock/routes",
     "skyblock",
     "✅ passed classes/programming 2/Images/Pasted image 20240508055159.png",
